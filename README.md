@@ -1,5 +1,6 @@
 # emojistrip
-A site for rendering common emoji phrases
+
+A site for sharing common emoji phrases
 
 ## Build
 
