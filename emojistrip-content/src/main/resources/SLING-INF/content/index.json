@@ -1,0 +1,6 @@
+{
+  "title":"emojistrip.com",
+  "description": "Modern Hieroglyphics",
+  "sling:resourceType":"emojistrip/page/index",
+  "jcr:primaryType":"nt:unstructured"
+}

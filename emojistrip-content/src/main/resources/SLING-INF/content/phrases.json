@@ -1,0 +1,19 @@
+{
+  "title": "Phrases - emojistrip.com",
+  "sling:resourceType": "emojistrip/page/list",
+  "jcr:primaryType": "nt:unstructured",
+  "list": {
+    "sling:resourceType": "emojistrip/block/phrase-list",
+    "good-luck": {
+      "sling:resourceType":"emojistrip/block/phrase",
+      "date": "1970-01-01",
+      "title": "Good luck",
+      "pars": [
+        "&#x2602;&#x1F603; &#x1F340; &#x1F340; &#x1F340; &#x1F601; \ud83c\udf40"
+      ],
+      "comments": "enabled",
+      "disqusShortName": "emojistrip",
+      "published": true
+    }
+  }
+}

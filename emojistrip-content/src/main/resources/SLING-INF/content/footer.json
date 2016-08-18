@@ -1,0 +1,6 @@
+{
+  "title":"emojistrip.com",
+  "sling:resourceType":"emojistrip/footer",
+  "jcr:primaryType":"nt:unstructured",
+  "copyright": "2016 Whistlepost, Inc."
+}

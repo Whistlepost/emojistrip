@@ -1,0 +1,5 @@
+{
+  "title":"emojistrip.com",
+  "sling:resourceType":"emojistrip/header",
+  "jcr:primaryType":"nt:unstructured"
+}
