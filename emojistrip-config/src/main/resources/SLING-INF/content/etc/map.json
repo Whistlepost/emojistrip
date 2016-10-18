@@ -1,0 +1,23 @@
+{
+  "http": {
+    "emojistrip.com.80": {
+      "sling:redirect": "http://www.emojistrip.com/"
+    },
+    "any_emojistrip.com.80": {
+      "sling:match": ".+\.emojistrip\.com\.80",
+      "sling:internalRedirect": "/content/emojistrip",
+      "apps": {
+        "sling:internalRedirect": "/apps"
+      },
+      "libs": {
+        "sling:internalRedirect": "/libs"
+      },
+      "system": {
+        "sling:internalRedirect": "/system"
+      },
+      "wp": {
+        "sling:internalRedirect": "/content/wp"
+      }
+    }
+  }
+}

@@ -1,2 +1,3 @@
 include 'emojistrip-app'
 include 'emojistrip-content'
+include 'emojistrip-config'

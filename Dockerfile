@@ -9,6 +9,7 @@ COPY gradle gradle
 
 COPY emojistrip-app emojistrip-app
 COPY emojistrip-content emojistrip-content
+COPY emojistrip-config emojistrip-config
 
 ENTRYPOINT ["/app/gradlew"]
 
