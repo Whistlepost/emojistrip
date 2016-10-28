@@ -25,7 +25,7 @@ subprojects {
     }
     tasks.processResources.dependsOn mkClassesDir
 
-    task bundleInstall {
+    bundleInstall {
         uri = "http://$sling_host:$sling_port/system/console/bundles"
         username = sling_username
         password = sling_password
